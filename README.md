@@ -70,5 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+Necessário ter instalado o Yarn, gerenciador de pacotes e dependencias.
 Usar comando Yarn no terminal para adicionar as dependências do projeto
 Yarn start para rodar o projeto no servidor local:http://localhost:3000
