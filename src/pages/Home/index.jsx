@@ -42,7 +42,7 @@ export default function Home() {
 
   return (
     <Container>
-      <h1>Repositórios</h1>
+      <h1>Explorar Repositórios</h1>
       <Row>
         <Col md={6}>
           <label>Pesquisar por repositório:</label>
