@@ -14,12 +14,15 @@ export const Repositories = styled.div`
   flex: 1;
   background: #fff;
   height: 20rem;
+  position: relative;
   border-radius: 8px;
   border: 1px solid black;
   display: block;
+  justify-content: space-between;
   padding: 3rem 5rem;
   margin: 0 auto;
   margin-top: 3rem;
+  text-align: center;
 
   strong{
     font-size: 25px;

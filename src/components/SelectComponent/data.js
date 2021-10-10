@@ -1,4 +1,5 @@
 export const languageOptions = [
+  { value: '', label: 'Select...', color:'#808080' },
   { value: 'Javascript', label: 'Javascript'},
   { value: 'Python', label: 'Python' },
   { value: 'PHP', label: 'PHP'},
